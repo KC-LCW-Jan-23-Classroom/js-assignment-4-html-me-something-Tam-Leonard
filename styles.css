@@ -11,7 +11,7 @@ body{
     font-size: 1.5em;
     color: red;
 }
-.mainHeading:hover{
+/*.mainHeading:hover{
     text-align: center;
     font-size: 1.5em;
     letter-spacing: 10px;
@@ -20,7 +20,7 @@ body{
 .mainHeading a{
     text-decoration: none;
     color: red;
-}
+}*/
 
 /* Cloud image*/
 .cloud img{
